@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <samp>
     <a href="https://secona.dev">secona.dev</a> —
     <a href="https://secona.dev/experiences">experiences</a> —
@@ -9,9 +9,9 @@
 
 <br>
 
-<p>
+<p align="center">
   <samp>
-    Interests: Systems Programming — Cyber Security — Web Development<br>
-    Languages: Rust — C/C++ — Go — JS/TS — Python — Java
+    Systems Programming — Cyber Security — Web Development<br>
+    Rust — C/C++ — Go — JS/TS — Python — Java
   </samp>
 </p>
