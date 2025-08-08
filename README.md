@@ -16,7 +16,7 @@
   <br>
   <samp>
     <i>
-      (* building software and learning something new every day *)
+      building software and learning something new every day
     </i>
   </samp>
 </p>
@@ -30,7 +30,7 @@
   <br>
   <samp>
     <i>
-      (* feel free to connect with me on any of these platforms *)
+      feel free to connect with me on any of these platforms
     </i>
   </samp>
 </p>
