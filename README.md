@@ -14,11 +14,6 @@
     <a href="https://secona.dev/blog" target="_blank" rel="noopener noreferrer"><b>blog</b></a>
   </samp>
   <br>
-  <samp>
-    <i>
-      building software and learning something new every day
-    </i>
-  </samp>
 </p>
 
 <p align="center">
@@ -28,9 +23,4 @@
     <a href="https://hachyderm.io/@secona" target="_blank" rel="noopener noreferrer"><b>mastodon</b></a>
   </samp>
   <br>
-  <samp>
-    <i>
-      feel free to connect with me on any of these platforms
-    </i>
-  </samp>
 </p>
