@@ -34,3 +34,7 @@ Selected open source contributions:
 - [rust-lang/cargo](https://github.com/rust-lang/cargo/pulls?q=is%3Apr+author%3Asecona)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Asecona)
 - [crate-ci/cargo-plumbing](https://github.com/crate-ci/cargo-plumbing/pulls?q=is%3Apr+author%3Asecona)
+
+My personal projects:
+
+- [belalang-project/belalang](https://github.com/belalang-project/belalang)
