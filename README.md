@@ -27,7 +27,7 @@
 
 # [secona.dev](https://secona.dev)
 
-CS student focused on compilers.
+CS student specializing in compilers and systems engineering.
 
 Selected open source contributions:
 
@@ -38,3 +38,8 @@ Selected open source contributions:
 My personal projects:
 
 - [belalang-project/belalang](https://github.com/belalang-project/belalang)
+
+Get in contact:
+
+- Email: secona00@gmail.com
+- LinkedIn: https://linkedin.com/in/secona
