@@ -42,4 +42,5 @@ My personal projects:
 Get in contact:
 
 - Email: secona00@gmail.com
+- X: https://x.com/secona0
 - LinkedIn: https://linkedin.com/in/secona
