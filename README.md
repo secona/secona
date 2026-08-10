@@ -38,6 +38,7 @@ Selected open source contributions:
 My personal projects:
 
 - [belalang-project/belalang](https://github.com/belalang-project/belalang)
+- [secona/muopt](https://github.com/secona/muopt)
 
 Get in contact:
 
